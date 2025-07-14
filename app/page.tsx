@@ -98,7 +98,7 @@ function ImageSlider() {
   )
 }
 
-export default function SociopenLanding() {
+export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [scrollY, setScrollY] = useState(0)
   const [openFaq, setOpenFaq] = useState<number | null>(null)
